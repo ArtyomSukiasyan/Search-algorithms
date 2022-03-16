@@ -1,9 +1,9 @@
-function linearSearch(arr, key) {
+function linearSearch(arr, el) {
   for (let i = 0; i < arr.length; i++) {
-    if (arr[i] === key) {
+    if (arr[i] === el) {
       return i;
     }
   }
-  
+
   return -1;
 }
