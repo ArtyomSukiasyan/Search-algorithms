@@ -1,0 +1,1 @@
+Easy implementation of different search algorithms
